@@ -1,0 +1,6 @@
+<Response>
+    <Say>
+      This message must be nested in a Response element
+      in order for Twilio to say it to your caller.
+    </Say>
+</Response>
